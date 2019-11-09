@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Погода в городе</string>
+    <string name="ekaterinburg">Екатеринбург</string>
+    <string name="city">город</string>
+    <string name="setting">настройки</string>
+</resources>
