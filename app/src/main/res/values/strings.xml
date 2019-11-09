@@ -2,5 +2,7 @@
     <string name="app_name">WeatherShow</string>
     <string name="ekaterinburg">Ekaterinburg</string>
     <string name="city">city</string>
-    <string name="setting">setting</string>
+    <string name="settings">settings</string>
+    <string name="temperature">temperature</string>
+    <string name="pressure">pressure</string>
 </resources>
